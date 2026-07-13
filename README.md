@@ -33,7 +33,7 @@ Using the fictional first-contact scenario from *Project Hail Mary* as motivatio
 
 📄 **PDF**
 
-[Download the complete manuscript] (From Project Hail Mary to Reality How Can Physics and Mathematics Help Us Talk to an Alien.pdf)
+[Download the complete manuscript](Understanding-Alien-Language.pdf)
 ---
 
 ## Video Explanation
