@@ -33,10 +33,7 @@ Using the fictional first-contact scenario from *Project Hail Mary* as motivatio
 
 📄 **PDF**
 
-Download the complete manuscript:
-
-**Understanding-Alien-Language.pdf**
-
+[Download the complete manuscript](Understanding-Alien-Language.pdf)
 ---
 
 ## Video Explanation
